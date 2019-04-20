@@ -5,6 +5,8 @@
 // @description  Делает маленьким окошко для ютубки
 // @author       Misterzym
 // @match        https://www.youtube.com/watch?v=*
+// @updateURL https://raw.githubusercontent.com/misterzym/MiniYoutube/master/script.js
+// @downloadURL https://raw.githubusercontent.com/misterzym/MiniYoutube/master/script.js
 // @grant        none
 // ==/UserScript==
 
